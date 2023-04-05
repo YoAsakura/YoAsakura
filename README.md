@@ -1,9 +1,9 @@
 <div align="center">
   <h1>  Hi there, i'm Roman 👋</h1>
-  <h3>Frontend developer from Russia</h3>
+  <h3>Frontend developer from Russia 🇷🇺 </h3>
 </div>
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoAsakura&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--
 **YoAsakura/YoAsakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
