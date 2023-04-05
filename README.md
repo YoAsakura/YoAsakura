@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<div class="box" style="width: 100px;
+<div align="center" id="box" style="width: 100px;
   height: 100px;
   background-color: pink;"> 
+
+  <h1>Я Ромочка Мурунов</h1>
 </div>
 
 
