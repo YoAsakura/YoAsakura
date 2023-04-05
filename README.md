@@ -1,8 +1,6 @@
-### Hi there, i'm Roman 👋
-
 <div align="center">
-  ### Hi there, i'm Roman 👋
-  ### align="center">Frontend developer from Russia 🇷🇺
+  <h1>  Hi there, i'm Roman 👋</h1>
+  <h3> align="center">Frontend developer from Russia 🇷🇺 </h3>
 </div>
 
 
