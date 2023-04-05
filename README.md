@@ -7,6 +7,8 @@
   <h1>Я Ромочка Мурунов</h1>
 </div>
 
+[x] Попробовать hello world!
+
   <style>
       #box {
           width: 100px;
