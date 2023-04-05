@@ -3,7 +3,7 @@
   <h3>Frontend developer from Russia 🇷🇺 </h3>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoAsakura&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoAsakura&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **YoAsakura/YoAsakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
