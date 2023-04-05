@@ -1,7 +1,8 @@
 ### Hi there, i'm Roman 👋
 
 <div align="center">
-  <h3>h3 align="center">Frontend developer from Russia 🇷🇺</h3></h1>
+  ### Hi there, i'm Roman 👋
+  ### align="center">Frontend developer from Russia 🇷🇺
 </div>
 
 
