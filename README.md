@@ -7,7 +7,8 @@
   <h1>Я Ромочка Мурунов</h1>
 </div>
 
-[x] Попробовать hello world!
+[X] Попробовать hello world!
+
 [ ] Попробовать hello world!
 
 
