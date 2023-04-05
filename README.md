@@ -1,15 +1,9 @@
-### Hi there 👋
+### Hi there, i'm Roman 👋
 
-<div align="center" id="box" style="width: 100px;
-  height: 100px;
-  background-color: pink;"> 
-
-  <h1>Я Ромочка Мурунов</h1>
+<div align="center">
+  <h3>h3 align="center">Frontend developer from Russia 🇷🇺</h3></h1>
 </div>
 
-[Х] Попробовать hello world!
-
-[ ] Попробовать hello world!
 
 
 <!--
