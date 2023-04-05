@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-<div class="circle-a"> </div>
-
-<style> .circle-a {
-    width: 100px;
+<div class="circle-a" style=" width: 100px;
   height: 100px;
-  background-color: pink;
-  }
-</style>
+  background-color: pink;"> 
+</div>
+
 
 <!--
 **YoAsakura/YoAsakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
