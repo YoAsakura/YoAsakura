@@ -1,6 +1,6 @@
 <div align="center">
   <h1>  Hi there, i'm Roman 👋</h1>
-  <h3>Frontend developer from Russia 🇷🇺 </h3>
+  <h3>Frontend developer from Russia</h3>
 </div>
 
 
