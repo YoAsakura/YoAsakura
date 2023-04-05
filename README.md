@@ -1,6 +1,6 @@
 <div align="center">
   <h1>  Hi there, i'm Roman 👋</h1>
-  <h3>Frontend developer from Russia 🇷🇺 </h3>
+  <h3>Frontend developer from Russia</h3>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoAsakura&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
