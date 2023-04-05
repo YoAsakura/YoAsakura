@@ -7,15 +7,8 @@
   <h1>Я Ромочка Мурунов</h1>
 </div>
 
-[x] Попробовать hello world!
+[X] Попробовать hello world!
 
-  <style>
-      #box {
-          width: 100px;
-          height: 100px;
-          background-color: tomato;
-      }
-  </style>
 
 <!--
 **YoAsakura/YoAsakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
