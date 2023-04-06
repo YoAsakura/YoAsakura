@@ -17,6 +17,7 @@
 </div>
 
 |Programming languages in which I wrote "Hello world!"|
+|---|
 | ~~JavaScript~~ | 
 | ~~JavaScript~~ | 
 | ~~JavaScript~~ | 
