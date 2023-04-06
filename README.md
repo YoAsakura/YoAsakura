@@ -17,21 +17,9 @@
 </div>
 
 |Programming languages in which I wrote "Hello world!"|
-|---|
-| ~~JavaScript~~ | 
-| ~~JavaScript~~ | 
-| ~~JavaScript~~ | 
-| ~~JavaScript~~ | 
-| ~~JavaScript~~ | 
-| ~~JavaScript~~ | 
-| ~~JavaScript~~ | 
-| ~~JavaScript~~ | 
-| ~~JavaScript~~ | 
-| ~~JavaScript~~ | 
-| ~~JavaScript~~ | 
-| ~~JavaScript~~ | 
-| ~~JavaScript~~ | 
-| ~~JavaScript~~ | 
+|:-|
+|~~JavaScript~~|
+
 
 1. ~~JavaScript~~
 2. ~~Python~~
