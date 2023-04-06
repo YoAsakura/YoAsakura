@@ -19,23 +19,20 @@
 |Programming languages in which I wrote "Hello world!"|
 |:-|
 |~~JavaScript~~|
-
-
-1. ~~JavaScript~~
-2. ~~Python~~
-3. ~~Java~~
-4. ~~Visual Basic~~
-5. ~~PHP~~
-6. C++
-7. C
-8. C#
-9. SQL
-10. GO
-11. Rust
-12. Ruby
-13. Elm
-14. Scala
-15. Swift
+|~~Python~~|
+|~~Java~~|
+|~~Visual Basic~~|
+|~~PHP~~|
+|С++|
+|С|
+|С№|
+|SQL|
+|GO|
+|Rust|
+|Ruby|
+|Elm|
+|Scala|
+|Swift|
 
 >Even minimal familiarity with a language can serve as a catalyst for fully learning it. (c) Me :)
 
