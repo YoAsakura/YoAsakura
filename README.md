@@ -1,7 +1,8 @@
 <div align="center">
   <h1>  Hi there, i'm Roman 👋</h1>
 
-<img src="https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47z6a7nsj4qk3gdesy8bz9rysh95e752g1jp7r87rq&amp;rid=giphy.gif&amp;ct=g">
+[<img src="https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47z6a7nsj4qk3gdesy8bz9rysh95e752g1jp7r87rq&amp;rid=giphy.gif&amp;ct=g">](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif)
+  
   <h3>Frontend developer from Russia</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
