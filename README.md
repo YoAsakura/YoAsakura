@@ -16,6 +16,10 @@
   <h2>Programming languages in which I wrote "Hello world!"</h2>
 </div>
 
+|### Programming languages in which I wrote "Hello world!" ###|Столбец 2|Столбец 3|
+|-|--------|---|
+| ~~JavaScript~~ | | |
+
 1. ~~JavaScript~~
 2. ~~Python~~
 3. ~~Java~~
