@@ -16,7 +16,6 @@
   <h2>Programming languages in which I wrote "Hello world!"</h2>
 </div>
 
-|:-|
 |~~JavaScript~~|
 |~~Python~~|
 |~~Java~~|
