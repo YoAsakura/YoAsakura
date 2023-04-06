@@ -3,6 +3,14 @@
   <h3>Frontend developer from Russia</h3>
 </div>
 
+<div align="center">
+  <h2>Programming languages in which I wrote "**Hello world!**"</h2>
+</div>
+
+
+
+Programming languages in which I wrote "Hello world!"
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoAsakura&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
