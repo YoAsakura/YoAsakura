@@ -37,8 +37,6 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=YoAsakura&theme=dark)](https://github.com/YoAsakura/leetcode-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoAsakura&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **YoAsakura/YoAsakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
