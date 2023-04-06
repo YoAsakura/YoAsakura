@@ -4,9 +4,14 @@
 </div>
 
 <div align="center">
-  <h2>Programming languages in which I wrote **"Hello world!"**</h2>
+  <h2>Programming languages in which I wrote "Hello world!"</h2>
 </div>
 
+1. ~~JavaScript~~
+2. ~~Python~~
+3. ~~Java~~
+4. ~~Visual Basic~~
+5. ~~PHP~~
 
 
 Programming languages in which I wrote "Hello world!"
