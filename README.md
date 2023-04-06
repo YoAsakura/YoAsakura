@@ -13,9 +13,8 @@
 </div>
 
 <div align="center">
-  <h2>Programming languages in which I wrote "Hello world!"</h2>
-</div>
-
+|Programming languages in which I wrote "Hello world!"|
+|:-|
 |~~JavaScript~~|
 |~~Python~~|
 |~~Java~~|
@@ -31,6 +30,7 @@
 |Elm|
 |Scala|
 |Swift|
+</div>
 
 >Even minimal familiarity with a language can serve as a catalyst for fully learning it. (c) Me :)
 
