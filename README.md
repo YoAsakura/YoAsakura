@@ -40,7 +40,7 @@
 
 [![codewars](https://www.codewars.com/users/YoAsakura/badges/large)](https://www.codewars.com/users/YoAsakura) 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=YoAsakura=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=YoAsakura=dark)](https://github.com/YoAsakura/leetcode-stats)
 
 <!--
 **YoAsakura/YoAsakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
