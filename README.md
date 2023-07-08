@@ -12,25 +12,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 </div>
 
-|Programming languages in which I wrote "Hello world!"|
-|:-|
-|~~JavaScript~~|
-|~~Python~~|
-|~~Java~~|
-|~~Visual Basic~~|
-|~~PHP~~|
-|С++|
-|С|
-|С#|
-|SQL|
-|GO|
-|Rust|
-|Ruby|
-|Elm|
-|Scala|
-|Swift|
-
-
 >Even minimal familiarity with a language can serve as a catalyst for fully learning it. (c) Me :)
 
 [![codewars](https://www.codewars.com/users/YoAsakura/badges/large)](https://www.codewars.com/users/YoAsakura) 
